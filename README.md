@@ -1,5 +1,4 @@
-<!-- ![](./assets/track-anything-logo.jpg) -->
-
+#Inpaint-Expert
 ***Inpaint-Expert*** is a flexible and interactive video object tracking & removing and video inpainting tool. During tracking, users can flexibly change the objects they want to track or correct the region of interest if there are ambiguities. These characteristics enable ***Inpaint-Expert*** to be suitable for: 
 - Video object tracking and segmentation with shot changes. 
 - Visualized development and data annotation for video object tracking and segmentation.
@@ -11,8 +10,8 @@
 #### Linux & Windows
 ```shell
 # Clone the repository:
-git clone https://github.com/gaomingqi/Track-Anything.git
-cd Track-Anything
+git clone [https://github.com/gaomingqi/Track-Anything.git](https://github.com/ajaxdform/Inpaint-Expert-Iterative-Flow-Completion-for-Video-Inpainting.git)
+cd Inpaint-Expert-Iterative-Flow-Completion-for-Video-Inpainting
 
 # Install dependencies: 
 pip install -r requirements.txt
