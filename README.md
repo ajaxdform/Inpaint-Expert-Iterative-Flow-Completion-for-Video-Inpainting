@@ -5,11 +5,6 @@
 - Visualized development and data annotation for video object tracking and segmentation.
 - Object-centric downstream video tasks, such as video inpainting and editing. 
 
-
-## :world_map: Video Tutorials ([Track-Anything Tutorials in Steps](./doc/tutorials.md))
-
-https://user-images.githubusercontent.com/30309970/234902447-a4c59718-fcfe-443a-bd18-2f3f775cfc13.mp4
-
 ---
 
 ## :computer: Get Started
