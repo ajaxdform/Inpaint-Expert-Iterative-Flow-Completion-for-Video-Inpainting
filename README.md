@@ -1,4 +1,4 @@
-#Inpaint-Expert
+*Inpaint-Expert*
 ***Inpaint-Expert*** is a flexible and interactive video object tracking & removing and video inpainting tool. During tracking, users can flexibly change the objects they want to track or correct the region of interest if there are ambiguities. These characteristics enable ***Inpaint-Expert*** to be suitable for: 
 - Video object tracking and segmentation with shot changes. 
 - Visualized development and data annotation for video object tracking and segmentation.
