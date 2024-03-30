@@ -11,9 +11,7 @@
 #### Linux & Windows
 ```shell
 # Clone the repository:
-git clone [[https://github.com/gaomingqi/Track-Anything.git](https://github.com/ajaxdform/Inpaint-Expert-Iterative-Flow-Completion-for-Video-Inpainting.git)](https://github.com/ajaxdform/Inpaint-Expert-Iterative-Flow-Completion-for-Video-Inpainting.git)
-cd Inpaint-Expert-Iterative-Flow-Completion-for-Video-Inpainting
-
+git clone https://github.com/ajaxdform/Inpaint-Expert-Iterative-Flow-Completion-for-Video-Inpainting.git
 # Install dependencies: 
 pip install -r requirements.txt
 
